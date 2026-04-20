@@ -60,21 +60,6 @@ DES = (triggered_categories / total_categories) × (1 + 0.1 × total_matches)
 | Suicidal ideation signal | `suicidal_ideation` (mean DES: 0.2387) |
 | Dataset balance ratio | 50% / 50% after oversampling |
 
----
-
-## 🖼️ Visualisations
-
-### Word Cloud — Depression-Related Social Media Terms
-![Word Cloud](visuals/wordcloud_depression.png)
-
-### SHAP Token-Level Explanation Heatmap
-![SHAP Heatmap](visuals/shap_token_heatmap.png)
-
-### ECID Fairness + DES Clinical Alignment Report
-![ECID Chart](visuals/ecid_fairness_chart.png)
-
-### Dataset Overview — Class Balance & Token Length
-![Dataset Overview](visuals/dataset_overview.jpg)
 
 ---
 
