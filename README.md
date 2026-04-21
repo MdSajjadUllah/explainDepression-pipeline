@@ -108,19 +108,19 @@ An end-to-end system that takes raw social media text and produces:
 ## 🖼️ Visualisations
 
 ### Model Performance Scorecard
-![Scorecard](visuals/model_scorecard.png)
+![Scorecard](model_scorecard.png)
 
 ### Training History — Loss, F1, AUC-ROC across 3 Epochs
-![Training History](visuals/training_history.png)
+![Training History](training_history.png)
 
 ### Real SHAP Token-Level Explanation Heatmap
-![SHAP Heatmap](visuals/shap_token_heatmap_real.png)
+![SHAP Heatmap](shap_token_heatmap_real.png)
 
 ### ECID Fairness + DES Clinical Alignment Report
-![ECID Chart](visuals/ecid_fairness_chart_real.png)
+![ECID Chart](ecid_fairness_chart_real.png)
 
 ### Word Cloud — Depression-Related Social Media Terms
-![Word Cloud](visuals/wordcloud_depression.png)
+![Word Cloud](wordcloud_depression.png)
 
 ---
 
